@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\bin\Debug\net6.0\AbstractExamples.exe
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\bin\Debug\net6.0\AbstractExamples.deps.json
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\bin\Debug\net6.0\AbstractExamples.runtimeconfig.json
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\bin\Debug\net6.0\AbstractExamples.dll
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\bin\Debug\net6.0\AbstractExamples.pdb
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.AssemblyInfo.cs
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.dll
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\refint\AbstractExamples.dll
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.pdb
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\AbstractExamples.genruntimeconfig.cache
+C:\Users\Support\source\repos\AbstractExamples\AbstractExamples\obj\Debug\net6.0\ref\AbstractExamples.dll
